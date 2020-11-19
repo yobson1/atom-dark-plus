@@ -18,5 +18,11 @@
                 "path": "./themes/Atom Dark+-color-theme.json"
             }
         ]
-    }
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yobson1/atom-dark-plus"
+	},
+	"homepage": "https://github.com/yobson1/atom-dark-plus/blob/master/README.md",
+	"license": "GNU GENERAL PUBLIC LICENSE"
 }
